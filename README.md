@@ -1,3 +1,9 @@
+# Sobre o projeto
+
+1. Projeto que consulta a previsão do tempo na cidade pesquisada.
+
+
+
 # Como iniciar nosso projeto
 
 1. Rode o comando `npm install` para podermos instalarmos todas as nossas dependencias.
