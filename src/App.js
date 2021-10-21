@@ -78,7 +78,7 @@ function App() {
                       Sensação térmica: {weatherForecast.current.feelslike_c}&#8451;
                     </p>
                     <p>
-                      Umidade: {weatherForecast.current.humidity}%;
+                      Umidade: {weatherForecast.current.humidity}%
                     </p>
                   </div>
 
