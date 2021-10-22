@@ -1,4 +1,6 @@
-## Sobre o projeto: :partly_sunny: 
+# Projeto Previsão do Tempo :partly_sunny: 
+
+## Sobre o projeto: :scroll:
 
 Projeto que consulta a previsão do tempo na cidade pesquisada.
 
