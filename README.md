@@ -4,9 +4,11 @@ Projeto que consulta a previsão do tempo na cidade pesquisada.
 
 
 
+
 ##  Status do projeto: :wrench:
 
 Em desenvolvimento.
+
 
 
 
