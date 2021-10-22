@@ -1,16 +1,16 @@
-# :partly_sunny: Sobre o projeto:
+## Sobre o projeto: :partly_sunny: 
 
 Projeto que consulta a previsão do tempo na cidade pesquisada.
 
 
 
-## :wrench: Status do projeto:
+##  Status do projeto: :wrench:
 
 Em desenvolvimento.
 
 
 
-## :pushpin: Desafio a serem realizados
+##  Desafio a serem realizados: :pushpin:
 
 - [ ] Criar loading para informamos ao usuário que estamos buscando sua previsão do tempo
 - [x] Mostrar para o usuário cidade e estado da previsão que ele esta vendo
