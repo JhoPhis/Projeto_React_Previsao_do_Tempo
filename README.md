@@ -1,4 +1,4 @@
-# Projeto Previsão do Tempo :partly_sunny: 
+# Projeto: Previsão do Tempo :partly_sunny: 
 
 ## Sobre o projeto: :scroll:
 
