@@ -2,7 +2,7 @@
 
 ## Sobre o projeto: :scroll:
 
-Projeto que consulta a previsão do tempo na cidade pesquisada.
+Projeto que faz a consulta da previsão do tempo na cidade pesquisada.
 
 
 ##  Status do projeto: :wrench:
@@ -10,7 +10,7 @@ Projeto que consulta a previsão do tempo na cidade pesquisada.
 Em desenvolvimento.
 
 
-##  Desafio a serem realizados: :pushpin:
+##  Desafios a serem realizados: :pushpin:
 
 - [ ] Criar loading para informamos ao usuário que estamos buscando sua previsão do tempo.
 - [x] Mostrar para o usuário cidade e estado da previsão que ele esta vendo.
